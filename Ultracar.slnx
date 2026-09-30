@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ultracar.Api/Ultracar.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Ultracar.Tests/Ultracar.Tests.csproj" />
+  </Folder>
+</Solution>
