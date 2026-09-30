@@ -7,7 +7,7 @@ dotnet test Ultracar.slnx                 # 30 testes, ~5 s
 dotnet run --project src/Ultracar.Api     # http://localhost:5028/swagger
 
 
-Em desenvolvimento a api-key vem desligada, então dá para chamar a API direto pelo Swagger ou pelo `curl`. Fora de Development ela é obrigatória; veja [Autenticação](#autenticação).
+Em desenvolvimento a api-key vem desligada, então dá para chamar a API direto pelo Swagger ou pelo `curl`. Fora de Development ela é obrigatória
 
 Decisões e trade-offs
 
